@@ -1,0 +1,3 @@
+selenium_firefox
+selenium < 4
+flask
